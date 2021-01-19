@@ -1,12 +1,42 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "product_id": 123,
+    "product_title": "Ноутбук",
+    "product_price": 45600
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "product_id": 456,
+    "product_title": "Мышка",
+    "product_price": 1000
+  },
+  {
+    "product_id": 789,
+    "product_title": "Камера",
+    "product_price": 2500
+  },
+  {
+    "product_id": 012,
+    "product_title": "Клавиатура",
+    "product_price": 600
+  },
+    {
+    "product_id": 223,
+    "product_title": "Ноутбук v.2",
+    "product_price": 45600
+  },
+  {
+    "product_id": 256,
+    "product_title": "Мышка v.2",
+    "product_price": 1000
+  },
+  {
+    "product_id": 389,
+    "product_title": "Камера v.2",
+    "product_price": 2500
+  },
+  {
+    "product_id": 312,
+    "product_title": "Клавиатура v.2",
+    "product_price": 600
   }
 ]
